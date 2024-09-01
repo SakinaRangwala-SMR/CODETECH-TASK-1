@@ -35,7 +35,9 @@
 - **Function Usage:** Both projects demonstrate the use of functions to encapsulate specific logic, making the code modular and easier to maintain.
 
 These projects help build foundational skills in Python programming, including input handling, data processing, function creation, and basic error handling.
-
+- Grading 
 ![image](https://github.com/user-attachments/assets/324f9fa8-c593-4ff9-9085-7321335b74e6)
 
+- Simple calculator
+  ![image](https://github.com/user-attachments/assets/acd31d7b-abd8-43f1-89d5-894c88463381)
 
